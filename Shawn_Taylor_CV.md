@@ -9,9 +9,9 @@ PhD Student - University of Florida
 **PhD** in Ecology | 2015-Present | University of Florida | Gainesville, FL | [White Lab](whitelab.weecology.org)  
 Research: Forecasting in ecology  
 - What are the correct scales to forecast ecological models and how do you find them?  
-- What tools can be borrowed from the meterology forecasting community?  
+- What tools can be borrowed from the meteorology forecasting community?  
 
-**BS** in Ecology and Conservation Biology | 2012 | Univeristy of Idaho | Moscow, ID  
+**BS** in Ecology and Conservation Biology | 2012 | University of Idaho | Moscow, ID  
  - Senior Thesis: Influences of soil and spatial properties on Bromus tectorum distribution after fire  
 
 **AS** in Computer Networking | 2005 | Truckee Meadows Community College | Reno, NV
@@ -53,7 +53,7 @@ May - October 2012, April 2013 - November 2014
 
 2016 Carl Storm Underrepresented Minority Fellowship (Travel Grant)  
 2012 Outstanding Ecology and Conservation Biology Nominated  
-2012 Henry & Ingeborg Legoll Schollarship  
+2012 Henry & Ingeborg Legoll Scholarship  
 2011 Research Award for Undergraduates NSF Idaho EPSCoR  
 
 ## Skills  
