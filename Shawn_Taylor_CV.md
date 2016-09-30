@@ -26,7 +26,7 @@ Associate of Science in Computer Networking | 2005 | Truckee Meadows Community C
 
 ## Honors & Grants
 
-2016 Carl Storm Underrepresented Minority Fellowship (Travel Grant)
+2016 Carl Storm Underrepresented Minority Fellowship (Travel Grant)  
 2012 Outstanding Ecology and Conservation Biology Nominated  
 2011 Research Award for Undergraduates NSF Idaho EPSCoR  
 2012 Henry & Ingeborg Legoll Schollarship  
@@ -43,11 +43,13 @@ Associate of Science in Computer Networking | 2005 | Truckee Meadows Community C
 
 ## Work Experience
 **Lab Manager** Agricultural Research Station - Dr. Beth Newingham - May - August 2015   
- - Lab purchasing & field prep. 
+ - Lab purchasing & field prep.  
  - Surveys of post-fire restoration throughout the Great Basin.  
-**Biological Science Technician**  U.S. Forest Service - May - October 2012, April 2013 - November 2014   
+
+**Biological Science Technician** U.S. Forest Service - May - October 2012, April 2013 - November 2014   
  - Botanist surveying riparian vegetation throughout the Columbia Basin  
  - Tech in 2012, Crew lead in 2013, Supervisor of 4 crews in 2014  
+
 **Systems Engineer** Bright Technologies - Reno, Nevada 2006-2009  
  - Design, testing, & installation of storage area networks (SANs) for film and television post production.  
 
