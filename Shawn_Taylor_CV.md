@@ -58,5 +58,5 @@ May - October 2012, April 2013 - November 2014
 
 ## Skills  
 
-R, Python, SQL, ArcGIS, QGIS, UNIX/Linux, parallel programming, high performance clusters.   
+R, Python, SQL, Git, ArcGIS, QGIS, UNIX/Linux, parallel programming, high performance clusters.   
 Botany. Fluency in most plants of the Western U.S. Expert in the Inland Northwest. 
