@@ -9,15 +9,16 @@ PhD Student - Shawn Taylor - University of Florida
 
 ## Education
 
-PhD in Ecology - 2015-Present - [White Lab](whitelab.weecology.org)
-**University of Florida** Gainesville, FL
+PhD in Ecology - 2015-Present - **University of Florida** Gainesville, FL - [White Lab](whitelab.weecology.org)  
 
-**Autumn migration ecology of rails on intensively managed wetlands**  
-- Hierarchical distance modeling to predict rail density and examine habitat use  
+**Forecasting in ecology**  
+- What are the correct scales to forecast ecological models and how do you find them?
+- What tools can be borrowed from the meterology forecasting community?
 
 Bachelor of Science in **Ecology and Conservation Biology**
 2012 **University of Idaho** Moscow, ID
-    Senior Thesis: Influences of soil and spatial properties on Bromus tectorum distribution after fire
+**Influences of soil and spatial properties on Bromus tectorum distribution after fire**
+- Repeated fires in southern Idaho lead to increased annual a
 
 
 ## Peer-Reviewed Publications  
@@ -30,10 +31,6 @@ Bachelor of Science in **Ecology and Conservation Biology**
 2011 **Research Award for Undergraduates** NSF Idaho EPSCoR
 2012 **Henry & Ingeborg Legoll Schollarship**
 
-
-## Research Experience
-
-
 ## Posters & Presentations
 
 - Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Research Conference: Unifying Ecology Across Scales. University of New England. Biddeford, ME.  
@@ -41,7 +38,7 @@ Bachelor of Science in **Ecology and Conservation Biology**
 - Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties on Bromus tectorum distribution after fire. Annual Meeting of the Society of Range Management, Spokane, WA. 
 
 
-## Professional Licenses and Certifications
+## Certifications
 
 **Instructor Training** [Data Carpentry](https://software-carpentry.org/index.html) - (7/2016)  
 
@@ -49,7 +46,7 @@ Bachelor of Science in **Ecology and Conservation Biology**
 ## Work Experience
 **Lab Manager**  
 Agricultural Research Station - Dr. Beth Newingham - May - August 2015   
- - Lab purchasing
+ - Lab purchasing & field prep. 
 
 **Biological Science Technician**  
 U.S. Forest Service - May - October 2012, April 2013 - November 2014
@@ -60,10 +57,7 @@ U.S. Forest Service - May - October 2012, April 2013 - November 2014
 Bright Technologies - Reno, Nevada 2006-2009
  - Design, testing, & installation of storage area networks (SANs) for film and television post production.
 
-## Computer Skills
+## Skills
 
-R  
-Python  
-SQL  
-ArcGIS/QGIS 
-UNIX Shell  
+R, Python, SQL, ArcGIS, QGIS, UNIX/Linux, Parallel Programming  
+Botany. Fluent in most plants of the Western U.S. Expert in the Inland Northwest. 
