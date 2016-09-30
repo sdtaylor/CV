@@ -9,7 +9,7 @@ PhD Student - Shawn Taylor - University of Florida
 
 ## Education
 
-PhD in **Ecology**  2017 (expected) - [White Lab](whitelab.weecology.org)
+PhD in Ecology - 2015-Present - [White Lab](whitelab.weecology.org)
 **University of Florida** Gainesville, FL
 
 **Autumn migration ecology of rails on intensively managed wetlands**  
@@ -36,9 +36,9 @@ Bachelor of Science in **Ecology and Conservation Biology**
 
 ## Posters & Presentations
 
-- 1 Taylor, S.D. and White, E. 2016. Ecological Forecasting and Scale. Gordon Research Conference: Unifying Ecology Across Scales. University of New England. Biddeford, ME.  
+- Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Research Conference: Unifying Ecology Across Scales. University of New England. Biddeford, ME.  
 
-- 1 Taylor, S.D. and B.A. Newingham. 2012. Influences of soil and spatial properties on Bromus tectorum distribution after fire. Annual Meeting of the Society of Range Management, Spokane, WA. 
+- Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties on Bromus tectorum distribution after fire. Annual Meeting of the Society of Range Management, Spokane, WA. 
 
 
 ## Professional Licenses and Certifications
