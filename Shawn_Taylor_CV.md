@@ -7,7 +7,7 @@ PhD Student - University of Florida
 ## Education
 
 **PhD** in Ecology | 2015-Present | University of Florida | Gainesville, FL | [White Lab](whitelab.weecology.org)  
-Forecasting in ecology  
+Research: Forecasting in ecology  
 - What are the correct scales to forecast ecological models and how do you find them?  
 - What tools can be borrowed from the meterology forecasting community?  
 
@@ -16,7 +16,7 @@ Forecasting in ecology
 
 **AS** in Computer Networking | 2005 | Truckee Meadows Community College | Reno, NV
 
-## Peer-Reviewed Publications  
+## Publications  
 
 *Coming soon!*
 
@@ -35,8 +35,8 @@ May - August 2015
 
 **Biological Science Technician** | U.S. Forest Service | Idaho, Montana, Oregon, Utah  
 May - October 2012, April 2013 - November 2014   
- - Botanist surveying riparian vegetation throughout the Columbia Basin  
- - Tech in 2012, Crew lead in 2013, Supervisor of 4 crews in 2014  
+ - Botanist surveying riparian vegetation throughout the Columbia Basin.  
+ - Tech in 2012. Crew lead in 2013. Supervisor of 4 crews in 2014.  
 
 **Systems Engineer** | Bright Technologies | Reno, NV  
 2006-2009  
@@ -53,8 +53,8 @@ May - October 2012, April 2013 - November 2014
 
 2016 Carl Storm Underrepresented Minority Fellowship (Travel Grant)  
 2012 Outstanding Ecology and Conservation Biology Nominated  
-2011 Research Award for Undergraduates NSF Idaho EPSCoR  
 2012 Henry & Ingeborg Legoll Schollarship  
+2011 Research Award for Undergraduates NSF Idaho EPSCoR  
 
 ## Skills  
 
