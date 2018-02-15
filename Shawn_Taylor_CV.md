@@ -8,8 +8,8 @@ PhD Student - University of Florida
 
 **PhD** in Ecology | 2015-Present | University of Florida | Gainesville, FL | [White Lab](whitelab.weecology.org)  
 Research: Forecasting in ecology  
-- What are the correct scales to forecast ecological models and how do you find them?  
-- What tools can be borrowed from the meteorology forecasting community?  
+- Making near term phenology forecasts. [http://phenology.naturecast.org](http://phenology.naturecast.org)  
+- What tools can be borrowed from the meteorology and climate forecasting community?  
 
 **BS** in Ecology and Conservation Biology | 2012 | University of Idaho | Moscow, ID  
  - Senior Thesis: Influences of soil and spatial properties on Bromus tectorum distribution after fire  
@@ -18,10 +18,9 @@ Research: Forecasting in ecology
 
 ## Publications  
 
-*Coming soon!*
+- Harris DJ, Taylor SD, White EP. (2018) Forecasting biodiversity in breeding birds using best practices. PeerJ 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278)  
 
-
-## Posters & Presentations
+## Posters & Presentations  
 
 - Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Research Conference: Unifying Ecology Across Scales. University of New England. Biddeford, ME. (Poster)
 
@@ -51,6 +50,7 @@ May - October 2012, April 2013 - November 2014
 
 ## Honors & Grants
 
+2017 NSF GRFP Honorable Mention  
 2016 Carl Storm Underrepresented Minority Fellowship (Travel Grant)  
 2012 Outstanding Ecology and Conservation Biology Nominated  
 2012 Henry & Ingeborg Legoll Scholarship  
