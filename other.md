@@ -1,0 +1,4 @@
+## Publications where I'm in the acknowledgements
+- Langston, A. K., Kaplan, D. A., & Putz, F. E. (2017). A casualty of climate change? Loss of freshwater forest islands on Florida’s Gulf Coast. Global Change Biology, (June), 1–15. [http://doi.org/10.1111/gcb.13805](http://doi.org/10.1111/gcb.13805)
+- Langston, A. K., Kaplan, D. A., & Angelini, C. (2017). Predation restricts black mangrove (Avicennia germinans) colonization at its northern range limit along Florida’s Gulf Coast. Hydrobiologia, 803(1), 317-331.[https://doi.org/10.1007/s10750-017-3197-0](https://doi.org/10.1007/s10750-017-3197-0)
+- Wissinger, B. D., Eigenbrode, S. D., Marshall, J. D., Hoines, J. D., & Newingham, B. A. (2014). Altered nitrogen and precipitation along urban gradients affect harvester ants and seed sources. Journal of Arid Environments, 104, 96-105.[https://doi.org/10.1016/j.jaridenv.2014.02.001](https://doi.org/10.1016/j.jaridenv.2014.02.001)
