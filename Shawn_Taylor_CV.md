@@ -1,12 +1,12 @@
 Shawn David Taylor
 ==============
-PhD Student - University of Florida  
-[shawntaylor@weecology.org](mailto:shawntaylor@weecology.org) | Github: [github.com/sdtaylor](https://github.com/sdtaylor) | Twitter: [@](https://twitter.com/dataEcologist)[dataEcologist](https://twitter.com/dataEcologist)   
+PhD Candidate - University of Florida  
+[shawntaylor@weecology.org](mailto:shawntaylor@weecology.org) | Github: [github.com/sdtaylor](https://github.com/sdtaylor) | Twitter: [dataEcologist](https://twitter.com/dataEcologist)   
 110 Newins-Ziegler Hall,  PO Box 110430,  Gainesville, FL 32611-0430  
 
 ## Education
 
-**PhD** in Ecology | 2015-Present | University of Florida | Gainesville, FL | [White Lab](whitelab.weecology.org)  
+**PhD** in Ecology | 2015-Present | University of Florida | Gainesville, FL | [White Lab](https://www.weecology.org)  
 Research: Forecasting in ecology  
 - Making near term phenology forecasts. [http://phenology.naturecast.org](http://phenology.naturecast.org)  
 - What tools can be borrowed from the meteorology and climate forecasting community?  
@@ -18,9 +18,21 @@ Research: Forecasting in ecology
 
 ## Publications  
 
-- Harris DJ, Taylor SD, White EP. (2018) Forecasting biodiversity in breeding birds using best practices. PeerJ 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278)  
+- Taylor, S.D. 2018. pyPhenology: A python framework for plant phenology modelling. The Journal of Open Source Software 3: 827. [https://doi.org/10.21105/joss.00827](https://doi.org/10.21105/joss.00827)
+
+- Harris DJ, Taylor SD, White EP. 2018. Forecasting biodiversity in breeding birds using best practices. PeerJ, 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278)  
+
+## Preprints
+
+- Taylor, Shawn D, Joan M Meiners, Kristina Riemer, Michael C Orr, and Ethan P White. 2018. “Comparison of Large-Scale Citizen Science Data and Long-Term Study Data for Phenology Modeling.” BioRxiv, [https://doi.org/10.1101/335802](https://doi.org/10.1101/335802).
+
+- White, Ethan P, Glenda M Yenni, Shawn D Taylor, Erica M Christensen, Ellen K Bledsoe, Juniper L Simonis, and S K Morgan Ernest. 2018. “Developing an Automated Iterative Near-Term Forecasting System for an Ecological Study.” BioRxiv. [https://doi.org/10.1101/268623](https://doi.org/10.1101/268623).
+
+- Taylor, Shawn David. 2018. “NEON NIST Data Science Evaluation Challenge: Methods and Results of Team Shawn.” PeerJ Preprints 6: e26967v1. [https://doi.org/10.7287/peerj.preprints.26967](https://doi.org/10.7287/peerj.preprints.26967).
 
 ## Posters & Presentations  
+
+- Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. F1000Research, 7:1274 (poster) ([10.7490/f1000research.1115951.1](10.7490/f1000research.1115951.1))
 
 - Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Research Conference: Unifying Ecology Across Scales. University of New England. Biddeford, ME. (Poster)
 
@@ -43,7 +55,9 @@ May - October 2012, April 2013 - November 2014
 
 \newpage
 
-## Certifications
+## Certifications & Trainings
+
+**Near Term Ecological Forecasting Workshop** Boston, Massachusetts - (7/2018)
 
 **Instructor Training** [Data Carpentry](https://software-carpentry.org/index.html) - (7/2016)  
 
