@@ -22,11 +22,11 @@ Research: Forecasting in ecology
 
 - Harris DJ, Taylor SD, White EP. 2018. Forecasting biodiversity in breeding birds using best practices. PeerJ, 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278)  
 
+- White, E. P., Yenni, G. M., Taylor, S. D., Christensen, E. M., Bledsoe, E. K., Simonis, J. L., & Morgan Ernest, S. K. (2018). Developing an automated iterative near-term forecasting system for an ecological study. Methods in Ecology and Evolution. [https://doi.org/10.1111/2041-210X.13104](https://doi.org/10.1111/2041-210X.13104)
+
 ## Preprints
 
 - Taylor, Shawn D, Joan M Meiners, Kristina Riemer, Michael C Orr, and Ethan P White. 2018. “Comparison of Large-Scale Citizen Science Data and Long-Term Study Data for Phenology Modeling.” BioRxiv, [https://doi.org/10.1101/335802](https://doi.org/10.1101/335802).
-
-- White, Ethan P, Glenda M Yenni, Shawn D Taylor, Erica M Christensen, Ellen K Bledsoe, Juniper L Simonis, and S K Morgan Ernest. 2018. “Developing an Automated Iterative Near-Term Forecasting System for an Ecological Study.” BioRxiv. [https://doi.org/10.1101/268623](https://doi.org/10.1101/268623).
 
 - Taylor, Shawn David. 2018. “NEON NIST Data Science Evaluation Challenge: Methods and Results of Team Shawn.” PeerJ Preprints 6: e26967v1. [https://doi.org/10.7287/peerj.preprints.26967](https://doi.org/10.7287/peerj.preprints.26967).
 
