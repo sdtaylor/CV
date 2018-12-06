@@ -1,9 +1,12 @@
 Shawn David Taylor
 ==============
 PhD Candidate - University of Florida  
-[shawntaylor@weecology.org](mailto:shawntaylor@weecology.org) | Github: [github.com/sdtaylor](https://github.com/sdtaylor) | Twitter: [dataEcologist](https://twitter.com/dataEcologist)   
-110 Newins-Ziegler Hall,  PO Box 110430,  Gainesville, FL 32611-0430  
-
+Email: [shawntaylor@weecology.org](mailto:shawntaylor@weecology.org)  
+Website: [sdtaylor.github.io](https://sdtaylor.github.io)  
+Github: [github.com/sdtaylor](https://github.com/sdtaylor)  
+Twitter: [dataEcologist](https://twitter.com/dataEcologist)  
+110 Newins-Ziegler Hall,  PO Box 110430,  Gainesville, FL 32611-0430
+  
 ## Education
 
 **PhD** in Ecology | 2015-Present | University of Florida | Gainesville, FL | [White Lab](https://www.weecology.org)  
@@ -18,27 +21,39 @@ Research: Forecasting in ecology
 
 ## Publications  
 
-- Taylor, S.D. 2018. pyPhenology: A python framework for plant phenology modelling. The Journal of Open Source Software 3: 827. [https://doi.org/10.21105/joss.00827](https://doi.org/10.21105/joss.00827)
+[Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)
 
-- Harris DJ, Taylor SD, White EP. 2018. Forecasting biodiversity in breeding birds using best practices. PeerJ, 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278)  
+Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, E.P White. 2018. Comparison of large-scale citizen science data and long-term study data for phenology modeling. Ecology [https://doi.org/10.1002/ecy.2568](https://doi.org/10.1002/ecy.2568).[[Preprint]( https://doi.org/10.1101/335802),[Code](https://github.com/sdtaylor/phenology_dataset_study)]
 
-- White, E. P., Yenni, G. M., Taylor, S. D., Christensen, E. M., Bledsoe, E. K., Simonis, J. L., & Morgan Ernest, S. K. (2018). Developing an automated iterative near-term forecasting system for an ecological study. Methods in Ecology and Evolution. [https://doi.org/10.1111/2041-210X.13104](https://doi.org/10.1111/2041-210X.13104)
+Harris, D.J., S.D. Taylor, E.P. White. 2018. Forecasting biodiversity in breeding birds using best practices. PeerJ, 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278) [
+[Code](https://github.com/weecology/bbs-forecasting/),
+[Code Archive](https://doi.org/10.5281/zenodo.888988),
+[Preprint](https://doi.org/10.1101/191130)]
+
+White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative near-term forecasting system for an ecological study. Methods in Ecology and Evolution [https://doi.org/10.1111/2041-210X.13104](https://doi.org/10.1111/2041-210X.13104) [[Website](https://portal.naturecast.org/),
+[Data](https://github.com/weecology/PortalData),
+[Code](https://github.com/weecology/portalPredictions),
+[Preprint](https://doi.org/10.1101/268623)]
 
 ## Preprints
 
-- Taylor, Shawn D, Joan M Meiners, Kristina Riemer, Michael C Orr, and Ethan P White. 2018. “Comparison of Large-Scale Citizen Science Data and Long-Term Study Data for Phenology Modeling.” BioRxiv, [https://doi.org/10.1101/335802](https://doi.org/10.1101/335802).
+Taylor, SD. 2018. “NEON NIST Data Science Evaluation Challenge: Methods and Results of Team Shawn.” PeerJ Preprints 6: e26967v1. [https://doi.org/10.7287/peerj.preprints.26967](https://doi.org/10.7287/peerj.preprints.26967).
 
-- Taylor, Shawn David. 2018. “NEON NIST Data Science Evaluation Challenge: Methods and Results of Team Shawn.” PeerJ Preprints 6: e26967v1. [https://doi.org/10.7287/peerj.preprints.26967](https://doi.org/10.7287/peerj.preprints.26967).
+## Software
+
+Taylor, S.D. 2018. pyPhenology: A python framework for plant phenology modelling. The Journal of Open Source Software 3: 827. [https://doi.org/10.21105/joss.00827](https://doi.org/10.21105/joss.00827)
+
+McGlinn, D., H. Senyondo, S.D. Taylor, M. Pohlman, and E.P. White. 2015-present. rdataretriever: R Interface to the Data Retriever. https://cran.r-project.org/web/packages/rdataretriever/index.html
 
 ## Posters & Presentations  
 
-- Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. Phenology Conference 2018. Melbourne, VIC, Australia. Best Student Poser
+Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. Phenology Conference 2018. Melbourne, VIC, Australia. Best Student Poser
 
-- Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. F1000Research, 7:1274 (poster) ([https://doi.org/10.7490/f1000research.1115951.1](https://doi.org/10.7490/f1000research.1115951.1))
+Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. F1000Research, 7:1274 (poster) ([https://doi.org/10.7490/f1000research.1115951.1](https://doi.org/10.7490/f1000research.1115951.1))
 
-- Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Research Conference: Unifying Ecology Across Scales. University of New England. Biddeford, ME. (Poster)
+Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Research Conference: Unifying Ecology Across Scales. University of New England. Biddeford, ME. (Poster)
 
-- Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties on Bromus tectorum distribution after fire. Annual Meeting of the Society of Range Management, Spokane, WA. (Presentation)
+Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties on Bromus tectorum distribution after fire. Annual Meeting of the Society of Range Management, Spokane, WA. (Presentation)
 
 ## Work Experience
 **Lab Manager** | Agricultural Research Station | Dr. Beth Newingham | Reno, NV  
