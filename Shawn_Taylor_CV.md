@@ -23,14 +23,14 @@ Research: Forecasting in ecology
 
 [Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)
 
-Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, E.P White. 2018. Comparison of large-scale citizen science data and long-term study data for phenology modeling. Ecology [https://doi.org/10.1002/ecy.2568](https://doi.org/10.1002/ecy.2568).[[Preprint]( https://doi.org/10.1101/335802),[Code](https://github.com/sdtaylor/phenology_dataset_study)]
+Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, E.P White. 2019. Comparison of large-scale citizen science data and long-term study data for phenology modeling. Ecology 100 (2): e02568. [https://doi.org/10.1002/ecy.2568](https://doi.org/10.1002/ecy.2568).[[Preprint]( https://doi.org/10.1101/335802),[Code](https://github.com/sdtaylor/phenology_dataset_study)]
 
 Harris, D.J., S.D. Taylor, E.P. White. 2018. Forecasting biodiversity in breeding birds using best practices. PeerJ, 6:e4278 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278) [
 [Code](https://github.com/weecology/bbs-forecasting/),
 [Code Archive](https://doi.org/10.5281/zenodo.888988),
 [Preprint](https://doi.org/10.1101/191130)]
 
-White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative near-term forecasting system for an ecological study. Methods in Ecology and Evolution [https://doi.org/10.1111/2041-210X.13104](https://doi.org/10.1111/2041-210X.13104) [[Website](https://portal.naturecast.org/),
+White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simonis, S.K.M. Ernest. 2018. Developing an automated iterative near-term forecasting system for an ecological study. Methods in Ecology and Evolution [https://doi.org/10.1111/2041-210X.13104](https://doi.org/10.1111/2041-210X.13104) [[Website](https://portal.naturecast.org/),
 [Data](https://github.com/weecology/PortalData),
 [Code](https://github.com/weecology/portalPredictions),
 [Preprint](https://doi.org/10.1101/268623)]
