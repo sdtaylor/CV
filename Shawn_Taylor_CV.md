@@ -41,6 +41,8 @@ Taylor, SD. 2018. “NEON NIST Data Science Evaluation Challenge: Methods and Re
 
 ## Software
 
+Christensen, E.M., Yenni, G.M., Ye, H., Simonis, J.L., Bledsoe, E.K., Diaz, R., Taylor, S.D., White, E.P. and Ernest, S.M. 2019. portalr: An R Package for Summarizing and Using the Portal Project Data. Journal of Open Source Software 4 (33): 1098. [https://doi.org/10.21105/joss.01098](https://doi.org/10.21105/joss.01098).
+
 Taylor, S.D. 2018. pyPhenology: A python framework for plant phenology modelling. The Journal of Open Source Software 3: 827. [https://doi.org/10.21105/joss.00827](https://doi.org/10.21105/joss.00827)
 
 McGlinn, D., H. Senyondo, S.D. Taylor, M. Pohlman, and E.P. White. 2015-present. rdataretriever: R Interface to the Data Retriever. https://cran.r-project.org/web/packages/rdataretriever/index.html
