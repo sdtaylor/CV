@@ -59,6 +59,16 @@ Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Rese
 
 Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties on Bromus tectorum distribution after fire. Annual Meeting of the Society of Range Management, Spokane, WA. (Presentation)
 
+## Invited Talks
+Ecological Forecasting: Concepts, Recommendations, and Examples. LTER Metacommunities Working Group. Boulder, CO. Nov. 5, 2018. Organizer: Eric R. Sokol  
+
+## Workshops Tought
+7 Week Data carpentry workshop Jan. 1 - March 8 [Blog Post](https://datacarpentry.org/blog/2018/04/dc-seven-weeks)  
+Data Carpentry, Utah State University, September 29-30, 2017  
+Software Carpentry, University of Florida, May 25-26, 2017  
+Data Carpentry, University of Florida, October 17-18, 2016  
+Software Carpentry, University of Florida, August 17-18, 2016  
+
 ## Work Experience
 **Lab Manager** | Agricultural Research Station | Dr. Beth Newingham | Reno, NV  
 May - August 2015    
