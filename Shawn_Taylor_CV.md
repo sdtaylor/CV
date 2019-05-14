@@ -9,10 +9,9 @@ Twitter: [dataEcologist](https://twitter.com/dataEcologist)
   
 ## Education
 
-**PhD** in Ecology | 2015-Present | University of Florida | Gainesville, FL | [White Lab](https://www.weecology.org)  
-Research: Forecasting in ecology  
+**PhD** in Ecology | 2015-Present | Expected Dec. 2019 | University of Florida | Gainesville, FL | [White Lab](https://www.weecology.org)  
+Disseration: Forecasting plant phenology: an assessment of data sources and estimators, and a fully automated implementation  
 - Making near term phenology forecasts. [http://phenology.naturecast.org](http://phenology.naturecast.org)  
-- What tools can be borrowed from the meteorology and climate forecasting community?  
 
 **BS** in Ecology and Conservation Biology | 2012 | University of Idaho | Moscow, ID  
  - Senior Thesis: Influences of soil and spatial properties on Bromus tectorum distribution after fire  
@@ -36,6 +35,8 @@ White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simon
 [Preprint](https://doi.org/10.1101/268623)]
 
 ## Preprints
+
+Taylor, SD and White, EP, 2019. Automated data-intensive forecasting of plant phenology throughout the United States. bioRxiv, p.634568. [https://doi.org/10.1101/634568](https://doi.org/10.1101/634568)  
 
 Taylor, SD. 2019. Estimating transition dates from status-based phenology observations: a test of methods. PeerJ Preprints 7:e27629v1 [https://doi.org/10.7287/peerj.preprints.27629v1](https://doi.org/10.7287/peerj.preprints.27629v1)
 
