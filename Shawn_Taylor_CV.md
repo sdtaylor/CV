@@ -41,7 +41,10 @@ White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simon
 
 ## Preprints
 
-Taylor, SD and White, EP, 2019. Automated data-intensive forecasting of plant phenology throughout the United States. bioRxiv, p.634568. [https://doi.org/10.1101/634568](https://doi.org/10.1101/634568)  
+Taylor, SD and Guralnick, RP, 2019. Opportunistically collected photographs can be used to estimate large-scale phenological trends. bioRxiv, 794396. [https://doi.org/10.1101/794396](https://doi.org/10.1101/794396)
+[[Data & Code Archive](https://doi.org/10.5281/zenodo.3473015)]  
+
+Taylor, SD and White, EP, 2019. Automated data-intensive forecasting of plant phenology throughout the United States. bioRxiv, 634568. [https://doi.org/10.1101/634568](https://doi.org/10.1101/634568)  
 
 Taylor, SD, & Marconi, S 2019. Rethinking global carbon storage potential of trees. A comment on Bastin et. al 2019. bioRxiv, 730325. [https://doi.org/10.1101/730325](https://doi.org/10.1101/730325)
 [[Data & Code Archive](https://doi.org/10.5281/zenodo.3364028)]
