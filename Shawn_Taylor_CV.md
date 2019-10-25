@@ -22,6 +22,8 @@ Disseration: Forecasting plant phenology: an assessment of data sources and esti
 
 [Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)
 
+Taylor, S.D. and White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)  
+
 Taylor S.D. 2019. Estimating flowering transition dates from status-based phenological observations: a test of methods. PeerJ 7:e7720 [https://doi.org/10.7717/peerj.7720](https://doi.org/10.7717/peerj.7720)
 [[Code](https://github.com/sdtaylor/phenology_estimators),
 [Code Archive](https://zenodo.org/record/3234913),
@@ -43,8 +45,6 @@ White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simon
 
 Taylor, SD and Guralnick, RP, 2019. Opportunistically collected photographs can be used to estimate large-scale phenological trends. bioRxiv, 794396. [https://doi.org/10.1101/794396](https://doi.org/10.1101/794396)
 [[Data & Code Archive](https://doi.org/10.5281/zenodo.3473015)]  
-
-Taylor, SD and White, EP, 2019. Automated data-intensive forecasting of plant phenology throughout the United States. bioRxiv, 634568. [https://doi.org/10.1101/634568](https://doi.org/10.1101/634568)  
 
 Taylor, SD, & Marconi, S 2019. Rethinking global carbon storage potential of trees. A comment on Bastin et. al 2019. bioRxiv, 730325. [https://doi.org/10.1101/730325](https://doi.org/10.1101/730325)
 [[Data & Code Archive](https://doi.org/10.5281/zenodo.3364028)]
