@@ -22,7 +22,10 @@ Disseration: Forecasting plant phenology: an assessment of data sources and esti
 
 [Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)
 
-Taylor, S.D. and White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)  
+Taylor, S.D. and White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)
+[[Code](https://github.com/sdtaylor/phenology_forecasts),
+[Code Archive](https://doi.org/10.5281/zenodo.2577452),
+[Preprint](https://doi.org/10.1101/634568)]
 
 Taylor S.D. 2019. Estimating flowering transition dates from status-based phenological observations: a test of methods. PeerJ 7:e7720 [https://doi.org/10.7717/peerj.7720](https://doi.org/10.7717/peerj.7720)
 [[Code](https://github.com/sdtaylor/phenology_estimators),
