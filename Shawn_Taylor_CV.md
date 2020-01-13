@@ -9,7 +9,7 @@ Twitter: [dataEcologist](https://twitter.com/dataEcologist)
   
 ## Education
 
-**PhD** in Ecology | 2015-Present | Expected Dec. 2019 | University of Florida | Gainesville, FL | [White Lab](https://www.weecology.org)  
+**PhD** in Ecology |  Dec. 2019 | University of Florida | Gainesville, FL | [White Lab](https://www.weecology.org)  
 Disseration: Forecasting plant phenology: an assessment of data sources and estimators, and a fully automated implementation  
 - Making near term phenology forecasts. [http://phenology.naturecast.org](http://phenology.naturecast.org)  
 
@@ -86,6 +86,9 @@ Data Carpentry, University of Florida, October 17-18, 2016
 Software Carpentry, University of Florida, August 17-18, 2016  
 
 ## Work Experience
+**Postdoctorial Researcher** | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
+Dec. 2019 - Present
+
 **Lab Manager** | Agricultural Research Station | Dr. Beth Newingham | Reno, NV  
 May - August 2015    
  - Lab purchasing & field prep.  
