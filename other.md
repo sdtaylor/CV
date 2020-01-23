@@ -6,3 +6,7 @@
 - Mtsetfwa, F., McCleery, R. A., & Monadjem, A. (2018). Changes in bat community composition and activity patterns across a conservation-agriculture boundary. African Zoology, 1-8. [https://doi.org/10.1080/15627020.2018.1531726](https://doi.org/10.1080/15627020.2018.1531726)
 - Barve, V. V et al. (2020). Methods for broad scale plant phenology assessments using citizen scientists’ photographs. Applications in Plant Sciences 8(1): e11315. [https://doi.org/10.1002/aps3.11315](https://doi.org/10.1002/aps3.11315)
 - Walker, J. E., Angelini, C., Safak, I., Altieri, A. H., & Osborne, T. Z. (2019). Effects of Changing Vegetation Composition on Community Structure, Ecosystem Functioning, and Predator–Prey Interactions at the Saltmarsh-Mangrove Ecotone. Diversity, 11(11), 208. [https://doi.org/10.3390/d11110208](https://doi.org/10.3390/d11110208)
+
+
+## Reviewed for 
+Ecosphere
