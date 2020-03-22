@@ -20,7 +20,12 @@ Disseration: Forecasting plant phenology: an assessment of data sources and esti
 
 ## Publications  
 
-[Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)  
+
+Taylor, S.D., Marconi, S. 2020. Rethinking global carbon storage potential of trees. A comment on Bastin et al. (2019). Annals of Forest Science 77, 23. [https://doi.org/10.1007/s13595-020-0922-z](https://doi.org/10.1007/s13595-020-0922-z)
+[[Code](https://github.com/sdtaylor/bastin2019_reply),
+[Data & Code Archive](https://doi.org/10.5281/zenodo.3364028),
+[Preprint](https://doi.org/10.1101/730325)]
 
 Taylor, S.D. and White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)
 [[Code](https://github.com/sdtaylor/phenology_forecasts),
@@ -48,9 +53,6 @@ White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe, J.L. Simon
 
 Taylor, SD and Guralnick, RP, 2019. Opportunistically collected photographs can be used to estimate large-scale phenological trends. bioRxiv, 794396. [https://doi.org/10.1101/794396](https://doi.org/10.1101/794396)
 [[Data & Code Archive](https://doi.org/10.5281/zenodo.3473015)]  
-
-Taylor, SD, & Marconi, S 2019. Rethinking global carbon storage potential of trees. A comment on Bastin et. al 2019. bioRxiv, 730325. [https://doi.org/10.1101/730325](https://doi.org/10.1101/730325)
-[[Data & Code Archive](https://doi.org/10.5281/zenodo.3364028)]
 
 Taylor, SD. 2018. NEON NIST Data Science Evaluation Challenge: Methods and Results of Team Shawn. PeerJ Preprints 6: e26967v1. [https://doi.org/10.7287/peerj.preprints.26967](https://doi.org/10.7287/peerj.preprints.26967).
 
