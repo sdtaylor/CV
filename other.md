@@ -10,3 +10,4 @@
 
 ## Reviewed for 
 Ecosphere
+Ecological Informatics
