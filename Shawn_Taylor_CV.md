@@ -1,11 +1,11 @@
 Shawn David Taylor
 ==============
-PhD Candidate - University of Florida  
+Research Ecologist Post-doc - USDA-ARS Jornada Experimental Range  
 Email: [shawntaylor@weecology.org](mailto:shawntaylor@weecology.org)  
 Website: [sdtaylor.github.io](https://sdtaylor.github.io)  
 Github: [github.com/sdtaylor](https://github.com/sdtaylor)  
 Twitter: [dataEcologist](https://twitter.com/dataEcologist)  
-110 Newins-Ziegler Hall,  PO Box 110430,  Gainesville, FL 32611-0430
+Address: P.O. Box 30003, MSC 3JER, NMSU,  Las Cruces, NM  88003-8003  
   
 ## Education
 
@@ -27,12 +27,12 @@ Taylor, S.D., Marconi, S. 2020. Rethinking global carbon storage potential of tr
 [Data & Code Archive](https://doi.org/10.5281/zenodo.3364028),
 [Preprint](https://doi.org/10.1101/730325)]
 
-Taylor, S.D. and White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)
+Taylor, S.D., White, E.P., 2019. Automated data-intensive forecasting of plant phenology throughout the United States. Ecological Applications. [https://doi.org/10.1002/eap.2025](https://doi.org/10.1002/eap.2025)
 [[Code](https://github.com/sdtaylor/phenology_forecasts),
 [Code Archive](https://doi.org/10.5281/zenodo.2577452),
 [Preprint](https://doi.org/10.1101/634568)]
 
-Taylor S.D. 2019. Estimating flowering transition dates from status-based phenological observations: a test of methods. PeerJ 7:e7720 [https://doi.org/10.7717/peerj.7720](https://doi.org/10.7717/peerj.7720)
+Taylor, S.D. 2019. Estimating flowering transition dates from status-based phenological observations: a test of methods. PeerJ 7:e7720 [https://doi.org/10.7717/peerj.7720](https://doi.org/10.7717/peerj.7720)
 [[Code](https://github.com/sdtaylor/phenology_estimators),
 [Code Archive](https://zenodo.org/record/3234913),
 [Preprint](https://doi.org/10.7287/peerj.preprints.27629v1)]
@@ -81,15 +81,20 @@ Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties
 Ecological Forecasting: Concepts, Recommendations, and Examples. LTER Metacommunities Working Group. Boulder, CO. Nov. 5, 2018. Organizer: Eric R. Sokol  
 
 ## Workshops Tought
-7 Week Data carpentry workshop Jan. 1 - March 8 [Blog Post](https://datacarpentry.org/blog/2018/04/dc-seven-weeks)  
+7 Week Data carpentry workshop Jan. 1 - March 8, 2018 [Blog Post](https://datacarpentry.org/blog/2018/04/dc-seven-weeks)  
 Data Carpentry, Utah State University, September 29-30, 2017  
 Software Carpentry, University of Florida, May 25-26, 2017  
 Data Carpentry, University of Florida, October 17-18, 2016  
 Software Carpentry, University of Florida, August 17-18, 2016  
 
+\newpage
+
 ## Work Experience
 **Postdoctorial Researcher** | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
 Dec. 2019 - Present
+
+**Research Associate** | University of Florida | Dr. Ethan White | Gainesville, FL  
+Aug. 2015 - Dec. 2019
 
 **Lab Manager** | Agricultural Research Station | Dr. Beth Newingham | Reno, NV  
 May - August 2015    
@@ -105,7 +110,6 @@ May - October 2012, April 2013 - November 2014
 2006-2009  
  - Design, testing, & installation of storage area networks (SANs) for film and television post production.  
 
-\newpage
 
 ## Certifications & Trainings
 
