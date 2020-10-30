@@ -15,3 +15,4 @@ Ecological Informatics
 American Journal of Botany  
 Ecology and Evolution  
 Agricultural and Forest Meteorology  
+International Journal of Remote Sensing
