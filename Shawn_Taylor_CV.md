@@ -121,6 +121,7 @@ Can we forecast plant phenology like the weather? March, 2020. Univ. of Texas, E
 The pipeline of phenological data in large scale automated forecasts. Ecological Society of America Conference 2020. Session: "Innovation in the Integration and Analysis of Large Phenological Datasets."  
 
 ## Workshops Tought
+Weekly R Meetup. Various presentations & ongoing R Help Desk. University of Florida. Jan. 2018 - May 2019  
 7 Week Data carpentry workshop Jan. 1 - March 8, 2018 [Blog Post](https://datacarpentry.org/blog/2018/04/dc-seven-weeks)  
 Data Carpentry, Utah State University, September 29-30, 2017  
 Software Carpentry, University of Florida, May 25-26, 2017  
