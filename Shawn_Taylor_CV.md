@@ -107,7 +107,7 @@ McGlinn, D., H. Senyondo, S.D. Taylor, M. Pohlman, and E.P. White. 2015-present.
 
 Taylor, S.D. and Browning, D.M. 2020. Interactive long-term forecasts for the phenology and productivity of Western rangelands. Ecological Society of America Conference 2020.  
 
-Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. Phenology Conference 2018. Melbourne, VIC, Australia. Best Student Poser
+Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. Phenology Conference 2018. Melbourne, VIC, Australia. Best Student Poster.
 
 Taylor, S.D. and White, E.P. 2018. Evaluation of a near term plant phenology forecast. F1000Research, 7:1274 (poster) ([https://doi.org/10.7490/f1000research.1115951.1](https://doi.org/10.7490/f1000research.1115951.1))
 
@@ -116,8 +116,8 @@ Taylor, S.D. and White, E.P. 2016. Ecological Forecasting and Scale. Gordon Rese
 Taylor, S.D. and Newingham, B.A. 2012. Influences of soil and spatial properties on Bromus tectorum distribution after fire. Annual Meeting of the Society of Range Management, Spokane, WA. (Presentation)
 
 ## Invited Talks
-Ecological Forecasting: Concepts, Recommendations, and Examples. LTER Metacommunities Working Group. Boulder, CO. Nov. 5, 2018. Organizer: Eric R. Sokol  
-Can we forecast plant phenology like the weather? March, 2020. Univ. of Texas, El Paso Ecology and Evolutionary Biology Seminar  
+Ecological Forecasting: Concepts, Recommendations, and Examples. LTER Metacommunities Working Group. Boulder, CO. Nov. 5, 2018. Organizer: Eric R. Sokol.  
+Can we forecast plant phenology like the weather? March, 2020. Univ. of Texas, El Paso Ecology and Evolutionary Biology Seminar.  
 The pipeline of phenological data in large scale automated forecasts. Ecological Society of America Conference 2020. Session: "Innovation in the Integration and Analysis of Large Phenological Datasets."  
 
 ## Workshops Tought
