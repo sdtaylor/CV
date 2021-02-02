@@ -11,25 +11,37 @@ Address: P.O. Box 30003, MSC 3JER, NMSU,  Las Cruces, NM  88003-8003
 **ORISE Postdoctorial Fellow** | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
 Nov. 2020 - Present
 
-**Postdoctorial Researcher** | GS-408-11 | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
+- Continuation of duties and accomplishments for Research Ecologist GS-408-11 below.
+
+**Research Ecologist GS-408-11** | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
 Nov. 2019 - Oct. 2020, 40 hrs/week
 
+- Developed and published original research.   
+- Implement and evaluated ecological models of grassland growth. [https://github.com/sdtaylor/GrasslandModels](https://github.com/sdtaylor/GrasslandModels)  
+- Utilized extremely large climate datasets to model grasslands under future climate scenarios.  
+- Run workflows on ARS high performance clusters (SciNet).  
+- Build crop image recognition models using deep learning methods.  
+- Wrote an R package to access and visualize local long term monitoring data. [https://github.com/sdtaylor/phenometr](https://github.com/sdtaylor/phenometr)  
+
 **Research Associate** | University of Florida | Dr. Ethan White | Gainesville, FL  
-Aug. 2015 - Nov. 2019
+Aug. 2015 - Nov. 2019  
+
+- Developed and published original research on ecological forecasting.  
+- Wrote a python package for phenological modelling [https://github.com/sdtaylor/pyphenology](https://github.com/sdtaylor/pyphenology)  
 
 **Lab Manager** | Agricultural Research Station | Dr. Beth Newingham | Reno, NV  
 May - August 2015    
- - Lab purchasing & field prep.  
- - Surveys of post-fire restoration throughout the Great Basin.  
+- Lab purchasing & field prep.  
+- Surveys of post-fire restoration throughout the Great Basin.  
 
 **Biological Science Technician** | GS-404-5 |  U.S. Forest Service | Idaho, Montana, Oregon, Utah  
 May - October 2012, April 2013 - November 2014, 40 hrs/week  
- - Botanist surveying riparian vegetation throughout the Columbia Basin.  
- - Tech in 2012. Crew lead in 2013. Supervisor of 4 crews in 2014.  
+- Botanist surveying riparian vegetation throughout the Columbia Basin.  
+- Tech in 2012. Crew lead in 2013. Supervisor of 4 crews in 2014.  
 
 **Systems Engineer** | Bright Technologies | Reno, NV  
 2006-2009  
- - Design, testing, & installation of storage area networks (SANs) for film and television post production.  
+- Design, testing, & installation of storage area networks (SANs) for film and television post production.  
   
 ## Education
 
