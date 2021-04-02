@@ -5,10 +5,9 @@ Email: [shawntaylor@weecology.org](mailto:shawntaylor@weecology.org)
 Website: [sdtaylor.github.io](https://sdtaylor.github.io)  
 Github: [github.com/sdtaylor](https://github.com/sdtaylor)  
 Twitter: [dataEcologist](https://twitter.com/dataEcologist)  
-Address: P.O. Box 30003, MSC 3JER, NMSU,  Las Cruces, NM  88003-8003  
   
 ## Work Experience
-**ORISE Postdoctorial Fellow** | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
+**ORISE Postdoctoral Fellow** | USDA-ARS Jornada Experimental Range | Dr. Dawn Browning | Las Cruces, NM  
 Nov. 2020 - Present
 
 - Continuation of duties and accomplishments for Research Ecologist GS-408-11 below.
@@ -17,17 +16,19 @@ Nov. 2020 - Present
 Nov. 2019 - Oct. 2020, 40 hrs/week
 
 - Developed and published original research.   
-- Implement and evaluated ecological models of grassland growth. [https://github.com/sdtaylor/GrasslandModels](https://github.com/sdtaylor/GrasslandModels)  
-- Utilized extremely large climate datasets to model grasslands under future climate scenarios.  
-- Run workflows on ARS high performance clusters (SciNet).  
-- Build crop image recognition models using deep learning methods.  
-- Wrote an R package to access and visualize local long term monitoring data. [https://github.com/sdtaylor/phenometr](https://github.com/sdtaylor/phenometr)  
+- Used simulation models and three years of drone imagery to determine the detection limits of remote sensing land surface phenology models.  
+- Used deep learning models to identify crop phenological stages from PhenoCam imagery. This will serve as a ground truth for remote sensing models of croplands.  
+- Implemented and evaluated ecological models of grassland growth. [https://github.com/sdtaylor/GrasslandModels](https://github.com/sdtaylor/GrasslandModels)  
+- Utilized large (50GB+) climate datasets to model grasslands under future climate scenarios.  
+- Ran workflows on ARS high performance clusters (SciNet).  
+- Wrote an R package to access and visualize local long-term monitoring data. [https://github.com/sdtaylor/phenometr](https://github.com/sdtaylor/phenometr)  
 
 **Research Associate** | University of Florida | Dr. Ethan White | Gainesville, FL  
 Aug. 2015 - Nov. 2019  
 
 - Developed and published original research on ecological forecasting.  
 - Wrote a python package for phenological modelling [https://github.com/sdtaylor/pyphenology](https://github.com/sdtaylor/pyphenology)  
+- Developed the data pipeline for automatic weekly phenology forecasts utilizing NOAA CFSv2 data [https://phenology.naturecast.org/](https://phenology.naturecast.org/)  
 
 **Lab Manager** | Agricultural Research Station | Dr. Beth Newingham | Reno, NV  
 May - August 2015    
@@ -60,6 +61,10 @@ Disseration: Forecasting plant phenology: an assessment of data sources and esti
 
 [Google Scholar](https://scholar.google.com/citations?user=SvjLzQMAAAAJ&hl=en)  
 
+8 Taylor, Shawn D., and Dawn M. Browning. 2021. Multi-Scale Assessment of a Grassland Productivity Model. Biogeosciences 18 (6): 2213–20. [https://doi.org/10.5194/bg-18-2213-2021](https://doi.org/10.5194/bg-18-2213-2021)
+[[Code](https://github.com/sdtaylor/PhenograssReplication),
+[Data & Code Archive](https://doi.org/10.5281/zenodo.3897319)
+
 7 Prince, K., Taylor, S., & Angelini, C. 2020. A global, cross-system meta-analysis of polychlorinated biphenyl biomagnification. Environmental Science & Technology. [https://doi.org/10.1021/acs.est.9b07693](https://doi.org/10.1021/acs.est.9b07693)  
 
 6 Taylor, S.D., Marconi, S. 2020. Rethinking global carbon storage potential of trees. A comment on Bastin et al. (2019). Annals of Forest Science 77, 23. [https://doi.org/10.1007/s13595-020-0922-z](https://doi.org/10.1007/s13595-020-0922-z)
@@ -90,10 +95,6 @@ Disseration: Forecasting plant phenology: an assessment of data sources and esti
 [Preprint](https://doi.org/10.1101/268623)]
 
 ## Preprints
-
-Taylor, SD and Browning, DM. 2020. Multi-scale assessment of a grassland productivity model. Biogeosciences Discussions. [https://doi.org/10.5194/bg-2020-321](https://doi.org/10.5194/bg-2020-321)  
-[[Code](https://github.com/sdtaylor/PhenograssReplication),
-[Data & Code Archive](https://doi.org/10.5281/zenodo.3897319)]  
 
 Taylor, SD and White, EP, 2020. Influence of climate forecasts, data assimilation, and uncertainty propagation on the performance of near-term phenology forecasts. bioRxiv, [https://doi.org/10.1101/2020.08.18.256057](https://doi.org/10.1101/2020.08.18.256057)  
 [[Code](https://github.com/sdtaylor/phenology_forecasts),
