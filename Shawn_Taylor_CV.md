@@ -19,7 +19,7 @@ Nov. 2019 - Oct. 2020, 40 hrs/week
 - Used simulation models and three years of drone imagery to determine the detection limits of remote sensing land surface phenology models.  
 - Used deep learning models to identify crop phenological stages from PhenoCam imagery. This will serve as a ground truth for remote sensing models of croplands.  
 - Implemented and evaluated ecological models of grassland growth. [https://github.com/sdtaylor/GrasslandModels](https://github.com/sdtaylor/GrasslandModels)  
-- Utilized large (50GB+) climate datasets to model grasslands under future climate scenarios.  
+- Utilized large (500GB+) climate datasets to model grasslands under future climate scenarios.  
 - Ran workflows on ARS high performance clusters (SciNet).  
 - Wrote an R package to access and visualize local long-term monitoring data. [https://github.com/sdtaylor/phenometr](https://github.com/sdtaylor/phenometr)  
 
