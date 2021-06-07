@@ -7,6 +7,7 @@
 - Barve, V. V et al. (2020). Methods for broad scale plant phenology assessments using citizen scientists’ photographs. Applications in Plant Sciences 8(1): e11315. [https://doi.org/10.1002/aps3.11315](https://doi.org/10.1002/aps3.11315)
 - Walker, J. E., Angelini, C., Safak, I., Altieri, A. H., & Osborne, T. Z. (2019). Effects of Changing Vegetation Composition on Community Structure, Ecosystem Functioning, and Predator–Prey Interactions at the Saltmarsh-Mangrove Ecotone. Diversity, 11(11), 208. [https://doi.org/10.3390/d11110208](https://doi.org/10.3390/d11110208)
 - Langston, A.K., Kaplan, D.A., (2020). Modelling the effects of climate, predation, and dispersal on the poleward range expansion of black mangrove (Avicennia germinans). Ecological Modelling. [https://doi.org/10.1016/j.ecolmodel.2020.109245](https://doi.org/10.1016/j.ecolmodel.2020.109245)  
+- Prince, K. D. et al. (2021). Mussels drive polychlorinated biphenyl (PCB) biomagnification in a coastal food web. Scientific Reports, 11(1), 1-11. [https://doi.org/10.1038/s41598-021-88684-9](https://doi.org/10.1038/s41598-021-88684-9)  
 
 
 ## Reviewed for 
@@ -15,5 +16,6 @@ Ecological Informatics
 American Journal of Botany  
 Ecology and Evolution  
 Agricultural and Forest Meteorology  
-International Journal of Remote Sensing
-PeerJ
+International Journal of Remote Sensing  
+PeerJ  
+PLoS Computational Biology  
